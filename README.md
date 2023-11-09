@@ -1,2 +1,14 @@
-# hello-world
-Moj repo za 4 programska jezika
+# Hello world - Dobro došli
+Ovo je moj testni GitHub repozitorij.
+
+## Uvod u GitHub
+
+Ovdje će biti objavljen uvod u GitHub
+
+### Osnove commitanja
+
+Ovdje će biti osnove vezane za commitanje promjena.
+
+# Objava sadržaja uz pomoć GitHub Pages
+
+Ovdje će biti upute vrzane ua objavu sadržaja repozirorija webu.
