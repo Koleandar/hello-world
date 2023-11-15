@@ -16,3 +16,7 @@ Ovdje će biti upute vezane za objavu sadržaja repozirorija webu.
 # Test datoteka
 
 [Poveznica na test.md datoteku](test.md)
+
+## Zadatak 2
+
+Ovo je pokušaj rješavanja zadatka 2
